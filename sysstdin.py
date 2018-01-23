@@ -2,5 +2,5 @@
 import sys
 #print "please input numbers"
 data = input("please input numbers")
-print datad
+print data
 print sys.platform
