@@ -1,7 +1,7 @@
 #_*_coding:utf-8_*_
 import sys
-for operator import itemgetter
-for itertools import groupby
+from operator import itemgetter
+from itertools import groupby
 
 def read_mapper_output(file, separator='\t'):
     for line in file:
